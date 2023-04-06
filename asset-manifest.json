@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shopo/static/css/main.d1a264fc.css",
+    "main.js": "/shopo/static/js/main.9ba734dd.js",
+    "static/js/787.b963a80a.chunk.js": "/shopo/static/js/787.b963a80a.chunk.js",
+    "static/media/about-banner.png": "/shopo/static/media/about-banner.11caf39e2bba73cad0e0.png",
+    "static/media/discount-banner-1.jpeg": "/shopo/static/media/discount-banner-1.e54af929de2bd95ce762.jpeg",
+    "static/media/bootstrap-icons.woff?": "/shopo/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/banner-1.png": "/shopo/static/media/banner-1.fba43cb9d939ca29b2af.png",
+    "static/media/bootstrap-icons.woff2?": "/shopo/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/section-category-2.jpg": "/shopo/static/media/section-category-2.43d305409f0801d681c5.jpg",
+    "static/media/banner-2.png": "/shopo/static/media/banner-2.69832bd9cad17c7be67d.png",
+    "static/media/section-category-1.jpg": "/shopo/static/media/section-category-1.ba3cd0492dafb4bf6915.jpg",
+    "static/media/banner-3.png": "/shopo/static/media/banner-3.e64695712eae5a86971b.png",
+    "static/media/revicons.eot": "/shopo/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/shopo/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/shopo/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/shopo/index.html",
+    "main.d1a264fc.css.map": "/shopo/static/css/main.d1a264fc.css.map",
+    "main.9ba734dd.js.map": "/shopo/static/js/main.9ba734dd.js.map",
+    "787.b963a80a.chunk.js.map": "/shopo/static/js/787.b963a80a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a264fc.css",
+    "static/js/main.9ba734dd.js"
+  ]
+}
