@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopo/static/css/main.d1a264fc.css",
-    "main.js": "/shopo/static/js/main.a580ffe4.js",
+    "main.js": "/shopo/static/js/main.69d513ad.js",
     "static/js/787.b963a80a.chunk.js": "/shopo/static/js/787.b963a80a.chunk.js",
     "static/media/about-banner.png": "/shopo/static/media/about-banner.11caf39e2bba73cad0e0.png",
     "static/media/discount-banner-1.jpeg": "/shopo/static/media/discount-banner-1.e54af929de2bd95ce762.jpeg",
@@ -17,11 +17,11 @@
     "static/media/revicons.woff": "/shopo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/shopo/index.html",
     "main.d1a264fc.css.map": "/shopo/static/css/main.d1a264fc.css.map",
-    "main.a580ffe4.js.map": "/shopo/static/js/main.a580ffe4.js.map",
+    "main.69d513ad.js.map": "/shopo/static/js/main.69d513ad.js.map",
     "787.b963a80a.chunk.js.map": "/shopo/static/js/787.b963a80a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1a264fc.css",
-    "static/js/main.a580ffe4.js"
+    "static/js/main.69d513ad.js"
   ]
 }
